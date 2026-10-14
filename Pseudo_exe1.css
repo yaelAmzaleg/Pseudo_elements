@@ -48,6 +48,9 @@ article p::first-letter{
     font-weight: bold;
     color:aqua;
 }
+article p::first-line{
+    color:aquamarine;
+}
 .all_card{
     width:100%;
 }
